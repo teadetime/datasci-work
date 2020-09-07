@@ -1,2 +1,3 @@
 # datasci-work
-work for data science course in 2021 Fall
+Repo to contain work for data science course @Olin Fall 2021
+
